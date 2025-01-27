@@ -7,7 +7,7 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
 1. CPE 487 Digital System Design
 2. CPE 345 Modeling and Simulation
 3. CPE 595 Applied Machine Learning
-4. CS 392 System Programming
+4. CS 392 Systems Programming
 ---
 ## Programing Languages I have used:
 - Python <br>
