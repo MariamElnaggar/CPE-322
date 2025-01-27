@@ -9,6 +9,7 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
 3. CPE 595 Applied Machine Learning
 4. CS 392 Systems Programming
 ---
+[My Github Page!](https://github.com/MariamElnaggar) has all my projects. Check it out!  <br>
 ## Programing Languages I have used:
 - Python <br>
   `print("Hello World!")`
@@ -16,7 +17,6 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
   `cout << "Hello World!" << endl;`
 - Java <br>
   `System.out.println("Hello World!");`
-[My Github Page!](https://github.com/MariamElnaggar) has all my projects. Check it out!
 ---
 ## Arduino Project
 ![alt text](README_image.jpeg)
