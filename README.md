@@ -19,4 +19,4 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
 [My Github Page!](https://github.com/MariamElnaggar) has all my projects. Check it out!
 ---
 ## Arduino Project
-![alt text](image.jpg)
+![alt text](README_image.jpeg)
