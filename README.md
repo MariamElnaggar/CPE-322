@@ -1,17 +1,14 @@
-# Heading
-
-**bold** 
-*italic*
+# CPE 322: Design VI
+I am a *computer engineering* student at Stevens Institute of Technology graduating **May 2026**!
 
 > block quote
-
-1. first ordered item
-2. second ordered item
+## Classes I am currently taking: 
+1. CPE 487 Digital System Design
    
-- first unordered item
-- second unordered item
-  
-`code`
+- Python
+- C/C++
+- 
+`print("Hello World!")`
 
 ---
 link
