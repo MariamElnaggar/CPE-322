@@ -19,4 +19,4 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
   `System.out.println("Hello World!");`
 ---
 ## Arduino Project
-![alt text](README_image.jpeg)
+![alt text](Images/README_image.jpeg)
