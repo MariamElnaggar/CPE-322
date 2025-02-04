@@ -9,7 +9,7 @@ I am a *computer engineering* student at Stevens Institute of Technology graduat
 3. CPE 595 Applied Machine Learning
 4. CS 392 Systems Programming
 ---
-[My GitHub Page](https://github.com/MariamElnaggar) has all my projects. Check it out!  <br>
+Check out [Project Website](https://sites.google.com/stevens.edu/cpe322-gsite/home) for final project updates!<br>
 ## Programing Languages I have used:
 - Python <br>
   `print("Hello World!")`
