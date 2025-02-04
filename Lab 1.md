@@ -12,7 +12,7 @@ $ ghdl -r ha_tb --vcd=ha.vcd
 ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
 $ gtkwave ha.vcd
 ```
-![halfAdder.png]()
+![halfAdder image](Images/halfAdder.png)
 
 ## D Flip-flop Example
 I used these commands to run the D Flip-flop sample code in the repository
@@ -25,4 +25,4 @@ $ ghdl -e dff_tb
 $ ghdl -r dff_tb --vcd=dff.vcd
 $ gtkwave dff.vcd
 ```
-![DFlipFlop.png]()
+![DFlipFlop image](Images/dFlipFlop.png)
