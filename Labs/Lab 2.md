@@ -1,5 +1,6 @@
 # Command Line
 I ran the following command line instructions on my Windows machine. and I added the comments to explain the commands
+## Comands
 ```
 # Display the hostname of the machine
 $ hostname
@@ -65,3 +66,12 @@ $ ping localhost
 # Display network statistics
 $ netstat
 ```
+## Results
+These are some of the outputs of the commands above.
+![CommandLine1](Images/CommandLine1.png)
+![CommandLine1](Images/CommandLine2.png)
+![CommandLine1](Images/CommandLine3.png)
+![CommandLine1](Images/CommandLine4.png)
+![CommandLine1](Images/CommandLine5.png)
+![CommandLine1](Images/CommandLine6.png)
+![CommandLine1](Images/CommandLine7.png)
