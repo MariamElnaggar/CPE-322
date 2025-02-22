@@ -68,10 +68,10 @@ $ netstat
 ```
 ## Results
 These are some of the outputs of the commands above.
-![CommandLine1](./Images/CommandLine1.png)
-![CommandLine2](./Images/CommandLine2.png)
-![CommandLine3](Images/CommandLine3.png)
-![CommandLine4](Images/CommandLine4.png)
-![CommandLine5](Images/CommandLine5.png)
-![CommandLine6](Images/CommandLine6.png)
-![CommandLine7](Images/CommandLine7.png)
+![CommandLine1](/Images/CommandLine1.png)
+![CommandLine2](/Images/CommandLine2.png)
+![CommandLine3](/Images/CommandLine3.png)
+![CommandLine4](/Images/CommandLine4.png)
+![CommandLine5](/Images/CommandLine5.png)
+![CommandLine6](/Images/CommandLine6.png)
+![CommandLine7](/Images/CommandLine7.png)
