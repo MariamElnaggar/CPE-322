@@ -22,6 +22,3 @@ These are some of the outputs of the commands above.
 ![CommandLine2](/Images/PythonCommandLine2.png)
 ![CommandLine3](/Images/PythonCommandLine3.png)
 ![CommandLine4](/Images/PythonCommandLine4.png)
-![CommandLine5](/Images/PythonCommandLine5.png)
-![CommandLine6](/Images/PythonCommandLine6.png)
-![CommandLine7](/Images/PythonCommandLine7.png)
